@@ -30,12 +30,3 @@ const PROFILE = {
   },
 };
 ```
-
-
-###
-
-<br clear="both">
-
-<!--<img src="https://raw.githubusercontent.com/ryznoxy/ryznoxy/output/snake.svg" alt="Snake animation" />-->
-
-###
