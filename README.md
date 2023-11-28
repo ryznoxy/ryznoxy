@@ -25,7 +25,7 @@ const PROFILE = {
   ],
   dev_dependencies: {
     coffe: "1.0.1",
-    music: "Payung Teduh",
+    music: "Payung Teduh, Hindia",
     editor: "VS Code",
   },
 };
