@@ -4,7 +4,7 @@ const PROFILE = {
   description: "Reza Adi N",
   role: "Front End Developer",
   education: "Software Enginerring",
-  site: "rezareza.vercel.app",
+  site: "ryznox.my.id",
   social_media: {
     tiktok: "@ryznoxy",
     instagram: "@r7zaa_",
