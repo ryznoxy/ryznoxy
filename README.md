@@ -1,5 +1,5 @@
 ```typescript
-const PROFILE = {
+{
   name: "ryznoxy",
   description: "Reza Adi N",
   role: "Front End Developer",
