@@ -1,7 +1,7 @@
 ```typescript
 {
   name: "ryznoxy",
-  description: "Reza Adi N",
+  description: "Reza",
   role: "Front End Developer",
   education: "Software Enginerring",
   site: "ryznox.my.id",
