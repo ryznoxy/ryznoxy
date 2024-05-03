@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryznoxy&label=Profile%20views&color=0e75b6&style=flat" alt="ryznoxy" /> </p>
+
 ```typescript
 {
   name: "ryznoxy",
@@ -25,7 +27,7 @@
   ],
   dev_dependencies: {
     coffe: "1.0.1",
-    music: "Payung Teduh, Hindia",
+    music: "Hindia",
     editor: "VS Code",
   },
 };
