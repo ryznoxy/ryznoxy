@@ -1,16 +1,12 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryznoxy&label=Profile%20views&color=0e75b6&style=flat" alt="ryznoxy" /> </p>
-
 ```typescript
 {
-  name: "ryznoxy",
-  description: "Reza",
+  nickname: "ryznoxy",
+  name: "Reza",
   role: "Front End Developer",
-  education: "Software Enginerring",
+  education: "Software Engineering",
   site: "ryznox.my.id",
   social_media: {
-    tiktok: "@ryznoxy",
     instagram: "@r7zaa_",
-    youtube: "@ryznoxy",
   },
   repository: {
     type: "open-source",
@@ -18,7 +14,6 @@
   },
   tools: [
     "Next JS",
-    "Vite",
     "Tailwindcss",
     "Vercel",
     "Netlify",
@@ -27,8 +22,25 @@
   ],
   dev_dependencies: {
     coffe: "1.0.1",
-    music: "Hindia",
+    music: ["Hindia","Juicy Luicy"],
     editor: "VS Code",
   },
 };
 ```
+
+<p align="left">
+  <samp>
+    <a href="https://ryznox.my.id" target='_blank'>website & portfolio</a>
+  </samp>
+</p>
+
+####  Let's get in touch! Feel free to DM me for discussion!
+
+[![Mail Badge](https://img.shields.io/badge/-@r7zaa_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/r7zaa_) 
+[![Mail Badge](https://img.shields.io/badge/-rezaanreza27@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rezaanreza27@gmail.com)
+[![](https://komarev.com/ghpvc/?username=ryznoxy&color=blue&label=Profile%20Views)](https://github.com/ryznoxy)
+[![](https://img.shields.io/github/followers/ryznoxy?label=GitHub%20Followers)](https://github.com/ryznoxy)
+<br />
+
+
+
