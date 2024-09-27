@@ -10,7 +10,7 @@ interface Profile {
   };
 }
 
-function introduceYourself(profile: Profile): string {
+function introduceMySelf(profile: Profile): string {
   const intro = `Hi, my name is ${profile.name}. I am a ${profile.role}.`;
   const details = `I am ${profile.age} years old with ${profile.experience} of experience.`;
   const edu = `I studied ${profile.education.jurusan} at ${profile.education.school}.`;
@@ -28,7 +28,7 @@ const developer: Profile = {
   }
 };
 
-console.log(introduceYourself(developer));
+console.log(introduceMySelf(developer));
 ```
 
 <p align="left">
