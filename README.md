@@ -33,7 +33,7 @@ console.log(introduceMySelf(developer));
 
 <p align="left">
   <samp>
-    <a href="https://ryznox.my.id" target='_blank'>website & portfolio</a>
+    <a href="https://ryznoxy.my.id" target='_blank'>website & portfolio</a>
   </samp>
 </p>
 
